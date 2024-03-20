@@ -2,6 +2,9 @@
 
 This simple weather application allows users to get weather information for a specific location. The application is a web application created using Express.js and provides weather data using Map APIs.
 
+## Screenshots
+![Screenshots](screenshots.gif)
+
 ## Installation
 
 1. First, clone this repository:
